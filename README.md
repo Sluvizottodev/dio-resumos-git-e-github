@@ -28,4 +28,11 @@ git init - Iniciar Repositório
 touch README.md - Criar um Arq. README
 
 ```
+
+```
+git reset - Este comando irá desfazer as alterações no arquivo
+```
+```
 Entre outros...
+
+```
