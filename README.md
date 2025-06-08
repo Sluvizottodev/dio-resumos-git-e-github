@@ -88,3 +88,42 @@ git checkout nome-da-branch
 git checkout -b nova-branch
 # Criar e mudar para uma nova branch
 ```
+
+## 🛠️ GitHub CLI
+
+```
+gh auth login
+# Autenticar com sua conta GitHub via terminal (escolha HTTPS ou SSH)
+```
+
+```
+gh repo create nome-do-repositorio
+# Criar um novo repositório no GitHub a partir do terminal
+```
+
+```
+gh repo clone usuario/repositorio
+# Clonar um repositório remoto usando GitHub CLI
+```
+
+```
+gh pr create --title "Titulo da PR" --body "Descrição"
+# Criar uma pull request diretamente do terminal
+```
+
+```
+gh issue list
+# Listar todas as issues abertas no repositório
+```
+
+```
+gh repo view
+# Ver informações detalhadas sobre o repositório atual
+```
+
+```
+gh help
+# Ver todos os comandos disponíveis do GitHub CLI
+```
+
+> O GitHub CLI é uma ferramenta poderosa que permite interagir com o GitHub diretamente pelo terminal, otimizando o fluxo de trabalho e evitando mudanças constantes de contexto entre navegador e terminal.
