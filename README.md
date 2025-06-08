@@ -7,12 +7,6 @@ Repositório para armazenar resumos sobre Git e GitHub | Curso Versionamento de 
 * [Documentação Git](https://git-scm.com/docs/git/pt_BR)
 * [Documentação GitHub](https://docs.github.com/)
 
-## 💻 Resumo das Aulas
-
-| Aulas                                    | Vídeo Aula                                                                                                                                                                                               |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Salvando Alterações no Repositório Local | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/desenvolvimento-backend-com-kotlin&tab=undefined&moduleId=undefined) |
-
 ## 🤓 Códigos
 
 ```
